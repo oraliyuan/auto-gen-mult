@@ -1,0 +1,3 @@
+获取桌面路径
+File desktopDir = FileSystemView.getFileSystemView() .getHomeDirectory();
+String desktopPath = desktopDir.getAbsolutePath();

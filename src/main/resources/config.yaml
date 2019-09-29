@@ -1,0 +1,8 @@
+bak:
+  path: /User/liyuan/shepi/
+mark:
+  prefix: PROMPT.
+  suffix: .MESSAGE
+trans:
+  requestUrl: http://api.fanyi.baidu.com/api/trans/vip/translate
+  transTo: en,jp,kor

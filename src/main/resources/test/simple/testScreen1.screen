@@ -1,0 +1,10 @@
+Aurora.showMessage('提示', '该订单已经被吃了！');
+Aurora.Masker.mask(Ext.getBody(), '加载中...');
+Aurora.showConfirm("提示", "确认提交该订单吗？", function() {
+<div class="left-prompt"><![CDATA[${l:FND_BULLETIN_INFO.BULLETIN_TYPE}:]]></div>
+<a:textField name="bulletin_title" bindTarget="blt1010_history_query_ds" prompt="BLT_BULLETIN_LIST.BULLETIN_TITLE"/>
+'code_value_name': '${l:BLT_BULLETIN_LIST.DECLARATION}'
+return '${l:BLT.START_END_DATE_VALI_ERROR}';
+<a:field name="object_category_desc" prompt="BLT_BULLETIN.BULLETIN_OBJECT_CATEGORY"/>
+<a:toolbarButton click="fnd1021_loadCloud" style="margin-left:20px;" text="PROMPT.LOAD_CLOUD_DATA" width="100"/>
+<a:column name="external_system_code" prompt="外部系统代码" width="120"/>
