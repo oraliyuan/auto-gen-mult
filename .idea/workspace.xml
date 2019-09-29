@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="480518e6-87d9-4508-9fe7-4e4360aa8852" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/per/orange/test/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/per/orange/test/FileTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="480518e6-87d9-4508-9fe7-4e4360aa8852" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/per/orange/handler/FileHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="180" column="46" lean-forward="true" selection-start-line="180" selection-start-column="46" selection-end-line="180" selection-end-column="46" />
+            <state relative-caret-position="27">
+              <caret line="177" selection-start-line="177" selection-end-line="178" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,6 +132,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -310,6 +311,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/per/orange/trans" />
@@ -436,18 +438,17 @@
       <workItem from="1569484242725" duration="11008000" />
       <workItem from="1569554114113" duration="8152000" />
       <workItem from="1569723933378" duration="4351000" />
-      <workItem from="1569755706206" duration="7476000" />
+      <workItem from="1569755706206" duration="7881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81911000" />
+    <option name="totallyTimeSpent" value="82316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49846154" weight="0.1913767" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49846154" visible="true" weight="0.18003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.50153846" side_tool="true" weight="0.24962178" />
@@ -457,7 +458,7 @@
       <window_info id="Favorites" order="7" side_tool="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2476923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,7 +468,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.31384614" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.31692308" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32923076" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
       <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" weight="0.32524273" />
       <window_info anchor="bottom" id="MyBatis Log" order="15" />
@@ -521,6 +522,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,8 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/per/orange/handler/FileHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="180" column="46" lean-forward="true" selection-start-line="180" selection-start-column="46" selection-end-line="180" selection-end-column="46" />
+        <state relative-caret-position="27">
+          <caret line="177" selection-start-line="177" selection-end-line="178" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
